@@ -14,7 +14,7 @@ A:visited {
 	color:#CCCCCC;
 	font-size: 12px;
 }
-A:hover   {text-decoration:underline;font-weight:normal;background:#0000FF;color:#FFFFFF}
+A:hover   {text-decoration:underline;font-weight:normal;background:#0000FF;color:#449944}
 A:active {text-decoration:underline;font-weight:normal}
 undernote   {
 	font-family:"Avantgarde", "Helvetica", "Arial", "sans-serif";
