@@ -5,13 +5,13 @@ body {
 A:link {
 	text-decoration:underline;
 	font-weight:normal;
-	color:#FFFF00;
+	color:#449944;
 	font-size: 12px;
 }
 A:visited {
 	text-decoration:underline;
 	font-weight:normal;
-	color:#CCCCCC;
+	color:#449944;
 	font-size: 12px;
 }
 A:hover   {text-decoration:underline;font-weight:normal;background:#0000FF;color:#449944}
